@@ -171,4 +171,4 @@ LICENSE
 __pycache__
 
 data/
-checkpoints/
+# checkpoints/
